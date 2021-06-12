@@ -1,0 +1,6 @@
+agaricus-altipes
+agaricus-bisporus
+agaricus-cupreobrunneus
+agaricus-moelleri
+agaricus-xanthodermus
+lepiota-cristata

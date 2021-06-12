@@ -1,0 +1,6 @@
+{
+  "endpoint": "https://cognitiveserive23.cognitiveservices.azure.com/",
+  "training_key": "70f4d3474b4f4557b56e98436f02f7bf",
+  "prediction_key": "3e6fb9d365de4dc2a03f09bd7509039e",
+  "prediction_resource_id": "/subscriptions/a3e845ed-61d3-4e5f-96cf-714e1f9b6033/resourceGroups/popmay23/providers/Microsoft.CognitiveServices/accounts/cognitiveserive23"
+}
