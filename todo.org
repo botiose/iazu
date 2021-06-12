@@ -1,0 +1,9 @@
+* DONE Cognitive API
+* DONE Edge Scenario
+* STRT Data Management
+* TODO Machine Learning Capabilities
+** DONE ML Studio
+** TODO Auto ML
+* TODO Desktop Application
+  - For something fast to develop use a python GUI framework
+  - For the api calls look at the respective notebooks for the code in python.
