@@ -1,0 +1,102 @@
+{
+  "container_url": "https://storageaccountmay23.blob.core.windows.net/epita/",
+  "image_prefix": "out/c02c6bb4-f67b-454e-bf56-7352b0e6f398/images/",
+  "tags": [
+    {
+      "tag": "auricularia_auricula_judae",
+      "dir": "10934_Auricularia_auricula-judae",
+      "edible": true
+    },
+    {
+      "tag": "xerocomellus_chrysenteron",
+      "dir": "11082_Xerocomellus_chrysenteron",
+      "edible": true
+      
+    },
+    {
+      "tag": "cylindrobasidium_laeve",
+      "dir": "12919_Cylindrobasidium_laeve",
+      "edible": false
+    },
+    {
+      "tag": "fomes_fomentarius",
+      "dir": "14062_Fomes_fomentarius",
+      "edible": false
+    },
+    {
+      "tag": "fomitopsis_pinicola",
+      "dir": "14064_Fomitopsis_pinicola",
+      "edible": false
+    },
+    {
+      "tag": "ganoderma_applanatum",
+      "dir": "14158_Ganoderma_applanatum",
+      "edible": false
+    },
+    {
+      "tag": "ganoderma_pfeifferi",
+      "dir": "14160_Ganoderma_pfeifferi",
+      "edible": false
+    },
+    {
+      "tag": "hypholoma_fasciculare",
+      "dir": "15078_Hypholoma_fasciculare",
+      "edible": false
+    },
+    {
+      "tag": "laccaria_laccata",
+      "dir": "15639_Laccaria_laccata",
+      "edible": true
+    },
+    {
+      "tag": "mycena_galericulata",
+      "dir": "17233_Mycena_galericulata",
+      "edible": false
+    },
+    {
+      "tag": "plicatura_crispa",
+      "dir": "18882_Plicatura_crispa",
+      "edible": true
+    },
+    {
+      "tag": "pluteus_cervinus",
+      "dir": "18890_Pluteus_cervinus",
+      "edible": true
+    },
+    {
+      "tag": "psathyrella_candolleana",
+      "dir": "19105_Psathyrella_candolleana",
+      "edible": true
+    },
+    {
+      "tag": "trametes_versicolor",
+      "dir": "20983_Trametes_versicolor",
+      "edible": false
+    },
+    {
+      "tag": "tricholoma_scalpturatum",
+      "dir": "21143_Tricholoma_scalpturatum",
+      "edible": true
+    },
+    {
+      "tag": "armillaria_lutea",
+      "dir": "40392_Armillaria_lutea",
+      "edible": true
+    },
+    {
+      "tag": "byssomerulius_corium",
+      "dir": "40985_Byssomerulius_corium",
+      "edible": false
+    },
+    {
+      "tag": "coprinellus_micaceus",
+      "dir": "61207_Coprinellus_micaceus",
+      "edible": true
+    },
+    {
+      "tag": "xylodon_paradoxus",
+      "dir": "67679_Xylodon_paradoxus",
+      "edible": true
+    }
+  ]
+}
