@@ -7,6 +7,8 @@
   screenshots related to each service.
 
 ** Directory description
+   The following is a description of each of the root's subdirectories:
+
   - cognitive-api: Contains a notebooks that makes use of the Custom Vision
     Azure service to train a CNN for image classification of Mushrooms, from a
     public dataset.
