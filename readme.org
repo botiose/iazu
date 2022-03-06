@@ -1,0 +1,25 @@
+* Microsoft Azure Project
+  This repo shows my work for a Microsoft Azure Project university project.
+
+  Each directory on the root contains jupyter notebooks showcasing 4 different
+  sub-assignments, each making use of 4 different Microsoft Azure services.
+  Within each subdirectory there is a 'screen' subdirectory showing some
+  screenshots related to each service.
+
+** Directory description
+  - cognitive-api: Contains a notebooks that makes use of the Custom Vision
+    Azure service to train a CNN for image classification of Mushrooms, from a
+    public dataset.
+
+  - data-management: Shows the usage of some of Microsoft Azure's data
+    management capabilities to handle the aforementioned image dataset, used to
+    train the CNN.
+
+  - edge-scenario: Shows python code related to exporting the trained CNN from
+    the Custom Vision service into a docker image for offline use.
+
+  - machine-learning-capabilities: Shows the usage of both Microsoft Azure's
+    Machine Learning Studio and AutoML to train machine learning models on
+    tabular data for a mushroom classification task, again on a public dataset.
+
+
